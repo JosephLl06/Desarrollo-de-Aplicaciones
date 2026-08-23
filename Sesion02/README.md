@@ -1,14 +1,6 @@
-# Práctica de CSS — Las Rozas Village
+# Práctica de CSS 
 
-Proyecto organizado en seis experiencias independientes. Cada carpeta contiene una página `index.html` y su hoja `styles.css` (salvo los estilos en línea y en cabecera demostrados también en la experiencia 01).
-
-## Cómo probarlo
-
-1. Abre la carpeta `practica-css` con Visual Studio Code.
-2. Instala la extensión **Live Server** si aún no la tienes.
-3. Abre `index.html` y pulsa **Go Live**; desde allí puedes acceder a las seis experiencias.
-
-También puedes abrir directamente cualquier `experienciaXX/index.html` en el navegador.
+Proyecto organizado en seis experiencias independientes. 
 
 ## Contenido
 
